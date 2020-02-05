@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "apis_service_identity_demo_path": {
+            "value": null
+        },
+        "vaults_KeyVault_name": {
+            "value": "KeyVault030220"
+        },
+        "service_Apim_name": {
+            "value": "Apim030220"
+        },
+        "service_Apim_publisher": {
+            "value": "Global Unlimited"
+        },
+        "service_Apim_publisher_email": {
+            "value": "contact@global.com"
+        }
+    }
+}
